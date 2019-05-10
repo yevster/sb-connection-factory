@@ -1,6 +1,8 @@
-#Azure Service Bus JMS Connection Factory
+# Azure Service Bus JMS Connection Factory
 
 If you're trying to use [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus/) with JMS, this wrapper could be useful.
+
+Note: this package is not provided or supported by Microsoft Corp. Use at your own risk and discretion under the terms of the [supplied license](LICENSE).
 
 How to use in Spring/Spring Boot:
 
